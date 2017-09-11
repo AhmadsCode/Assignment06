@@ -25,7 +25,7 @@ public class Assignment6 {
         displaySortedNumbers(number1, number2, number3); // Displays numbers in ascending order
     }
 
-    public static void displaySortedNumbers(            //Method displays 3 numbers in ascending order
+    public static void displaySortedNumbers(            //Method displays 3 numbers in ascending order.
             double num1, double num2, double num3) {
             double swap; // Hold number to swap
 
