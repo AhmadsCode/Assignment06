@@ -45,6 +45,6 @@ public class Assignment6 {
             num3 = swap;
         }
 
-        System.out.println(num1 + " " + num2 + " " + num3); // Displays the result
+        System.out.println(num1 + " " + num2 + " " + num3); // Displays the result.
     }
 }
